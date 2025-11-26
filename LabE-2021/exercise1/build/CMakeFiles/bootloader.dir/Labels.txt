@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/CMakeFiles/bootloader
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/CMakeFiles/bootloader.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/CMakeFiles/bootloader-complete.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/thomasnewman/Downloads/LabE-2021/exercise1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

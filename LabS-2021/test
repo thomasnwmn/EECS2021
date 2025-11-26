@@ -1,0 +1,6 @@
+this.name = name;
+class (students)
+newclass = new class(students)
+
+class.students = newstudents
+newclass.getstudent (would return newstudents)
